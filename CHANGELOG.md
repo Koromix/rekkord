@@ -1,5 +1,10 @@
 # Changelog
 
+## Rekord 0.3
+
+- Improve rekord performance on low-core machines
+- Improve error when rekord cannot reserve space for file
+
 ## Rekord 0.2
 
 - Automatically create Linux cache directory if needed
