@@ -1,5 +1,10 @@
 # Changelog
 
+## Rekord 0.4
+
+- Add JSON and XML list output formats
+- Add `rekord tree` command to list files
+
 ## Rekord 0.3
 
 - Improve rekord performance on low-core machines
