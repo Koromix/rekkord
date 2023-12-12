@@ -1,5 +1,11 @@
 # Changelog
 
+## Rekord 0.5
+
+- Fix unbounded task queue for large put and get tasks
+- Change plain output format for `rekord list`
+- Minor other output changes
+
 ## Rekord 0.4
 
 - Add JSON and XML list output formats
