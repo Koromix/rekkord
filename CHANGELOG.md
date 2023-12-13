@@ -1,5 +1,9 @@
 # Changelog
 
+## Rekord 0.6
+
+- Fix excessive memory usage when storing big files in parallel
+
 ## Rekord 0.5
 
 - Fix unbounded task queue for large put and get tasks
