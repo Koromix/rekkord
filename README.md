@@ -6,7 +6,12 @@ Rekord is a multi-platform backup tool with **deduplication and asymmetric encry
 - S3 storage
 - SFTP servers
 
-It is currently alpha quality and **should not be used in production**, more documentation will come in the future.
+This software has not been stabilized yet and **must not be used as your primary backup** tool. You've been warned!
+
+Use the following links for more information:
+
+- Documentation: https://koromix.dev/rekord
+- Source code: https://github.com/Koromix/rygel/ (see below for an explanation)
 
 # Source code
 
