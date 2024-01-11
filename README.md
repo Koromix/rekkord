@@ -1,3 +1,5 @@
+You can find these instructions on the [official web page](http://koromix.dev/rekord).
+
 # Overview
 
 Rekord is a **multi-platform backup tool**, with the following features:
