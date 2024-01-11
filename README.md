@@ -11,6 +11,7 @@ This software has not been stabilized yet and **must not be used as your primary
 Use the following links for more information:
 
 - Documentation: https://koromix.dev/rekord
+- Changelog: https://github.com/Koromix/rygel/blob/master/src/rekord/CHANGELOG.md
 - Source code: https://github.com/Koromix/rygel/ (see below for an explanation)
 
 # Source code
