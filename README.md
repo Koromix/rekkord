@@ -12,7 +12,13 @@ Use the following links for more information:
 
 - Documentation: https://koromix.dev/rekord
 - Changelog: https://github.com/Koromix/rygel/blob/master/src/rekord/CHANGELOG.md
-- Source code: https://github.com/Koromix/rygel/ (see below for an explanation)
+
+Up-to-date binaries are available here:
+
+- [Windows](https://download.koromix.dev/windows/)
+- [macOS](https://download.koromix.dev/macos/)
+- [Linux (Debian)](https://koromix.dev/rekord#linux-debian)
+- [Linux (RPM)](https://koromix.dev/rekord#linux-rpm)
 
 # Source code
 
