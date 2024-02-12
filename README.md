@@ -1,8 +1,8 @@
-You can find these instructions on the [official web page](http://koromix.dev/rekord).
+You can find these instructions on the [official web page](http://koromix.dev/rekkord).
 
 # Overview
 
-Rekord is a **multi-platform backup tool**, with the following features:
+Rekkord is a **multi-platform backup tool**, with the following features:
 
 - *Write-only passwords / keys* (using asymmetic encryption)
 - *Data deduplication* based on content-defined chunking
@@ -12,21 +12,21 @@ This software has not been stabilized yet and **must not be used as your primary
 
 Use the following links for more information:
 
-- Documentation: https://koromix.dev/rekord
-- Changelog: https://github.com/Koromix/rygel/blob/master/src/rekord/CHANGELOG.md
+- Documentation: https://koromix.dev/rekkord
+- Changelog: https://github.com/Koromix/rygel/blob/master/src/rekkord/CHANGELOG.md
 
 Up-to-date binaries are available here:
 
 - [Windows](https://download.koromix.dev/windows/)
 - [macOS](https://download.koromix.dev/macos/)
-- [Linux (Debian)](https://koromix.dev/rekord#linux-debian)
-- [Linux (RPM)](https://koromix.dev/rekord#linux-rpm)
+- [Linux (Debian)](https://koromix.dev/rekkord#linux-debian)
+- [Linux (RPM)](https://koromix.dev/rekkord#linux-rpm)
 
 # Source code
 
-This repository does not contain the code of Rekord but only exists as a front. For pratical reasons, I've started using a single repository for all my projects in 2018 because it is easier to manage.
+This repository does not contain the code of Rekkord but only exists as a front. For pratical reasons, I've started using a single repository for all my projects in 2018 because it is easier to manage.
 
-The source code is available here: https://github.com/Koromix/rygel/ (in the *src/rekord* subdirectory).
+The source code is available here: https://github.com/Koromix/rygel/ (in the *src/rekkord* subdirectory).
 
 Monorepositories have two killer features for me:
 
