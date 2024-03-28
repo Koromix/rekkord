@@ -1,4 +1,4 @@
-You can find these instructions on the [official web page](http://koromix.dev/rekkord).
+You can find these instructions on the [official web page](https://rekkord.org).
 
 # Overview
 
@@ -12,15 +12,15 @@ This software has not been stabilized yet and **must not be used as your primary
 
 Use the following links for more information:
 
-- Documentation: https://koromix.dev/rekkord
+- Documentation: https://rekkord.org
 - Changelog: https://github.com/Koromix/rygel/blob/master/src/rekkord/CHANGELOG.md
 
 Up-to-date binaries are available here:
 
 - [Windows](https://download.koromix.dev/windows/)
 - [macOS](https://download.koromix.dev/macos/)
-- [Linux (Debian)](https://koromix.dev/rekkord#linux-debian)
-- [Linux (RPM)](https://koromix.dev/rekkord#linux-rpm)
+- [Linux (Debian)](https://rekkord.org/start#linux-debian)
+- [Linux (RPM)](https://rekkord.org/start#linux-rpm)
 
 # Source code
 
