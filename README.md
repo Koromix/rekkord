@@ -8,7 +8,8 @@ Rekkord is a **multi-platform backup tool**, with the following features:
 - *Data deduplication* based on content-defined chunking
 - *Local and remote storage back-ends*: local directory, S3 storage, SFTP servers
 
-This software has not been stabilized yet and **must not be used as your primary backup** tool. You've been warned!
+> [!CAUTION]
+> This software has not been stabilized yet and **must not be used as your primary backup** tool. You've been warned!
 
 Use the following links for more information:
 
