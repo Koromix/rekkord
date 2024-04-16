@@ -14,7 +14,7 @@ Rekkord is a **multi-platform backup tool**, with the following features:
 Use the following links for more information:
 
 - Documentation: https://rekkord.org
-- Changelog: https://github.com/Koromix/rygel/blob/master/src/rekkord/CHANGELOG.md
+- Changelog: https://rekkord.org/changelog
 
 Up-to-date binaries are available here:
 
