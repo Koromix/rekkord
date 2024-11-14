@@ -14,14 +14,8 @@ Rekkord is a **multi-platform backup tool**, with the following features:
 Use the following links for more information:
 
 - Documentation: https://rekkord.org
+- Download: https://rekkord.org/download
 - Changelog: https://rekkord.org/changelog
-
-Up-to-date binaries are available here:
-
-- [Windows](https://download.koromix.dev/windows/)
-- [macOS](https://download.koromix.dev/macos/)
-- [Linux (Debian)](https://rekkord.org/start#linux-debian)
-- [Linux (RPM)](https://rekkord.org/start#linux-rpm)
 
 # Source code
 
