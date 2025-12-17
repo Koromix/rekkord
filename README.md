@@ -22,9 +22,9 @@ Use the following links for more information:
 
 # Source code
 
-This repository does not contain the code of Rekkord but only exists as a front. For pratical reasons, I've started using a single repository for all my projects in 2018 because it is easier to manage.
+This repository does not contain the code of Rekkord but only exists as a front. For practical reasons, I've started using a single repository for all my projects in 2018 because it is easier to manage.
 
-The source code is available here: https://codeberg.org/Koromix/rygel/ (in the *src/rekkord* subdirectory).
+The source code is available here: https://codeberg.org/Koromix/rygel (in the *src/rekkord* subdirectory).
 
 Monorepositories have two killer features for me:
 
