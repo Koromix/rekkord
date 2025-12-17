@@ -6,7 +6,7 @@ You can find these instructions on the [official web page](https://rekkord.org).
 
 Rekkord is a **multi-platform backup tool**, with the following features:
 
-- Write-only passwords / keys (using asymmetic encryption)
+- Write-only passwords / keys (using asymmetric encryption)
 - Data deduplication based on content-defined chunking
 - Data compression with LZ4
 - Local and remote storage back-ends: local directory, S3 storage, SFTP servers
