@@ -31,4 +31,4 @@ Monorepositories have two killer features for me:
 - Cross-project refactoring
 - Simplified dependency management
 
-You can find a more detailed rationale here: https://danluu.com/monorepo/
+You can find a more detailed rationale here: https://danluu.com/monorepo
