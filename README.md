@@ -8,10 +8,10 @@ If you like this project, consider supporting me:
 
 Rekkord is a **multi-platform backup tool**, with the following features:
 
-- Write-only passwords / keys (using asymmetic encryption)
+- Write-only passwords / keys (using asymmetric encryption)
 - Data deduplication based on content-defined chunking
 - Data compression with LZ4
-- Local and remote storage back-ends: local directory, S3 storage, SFTP servers
+- Local and remote storage backends: local directory, S3 storage, SFTP servers
 
 > [!CAUTION]
 > This software has not been stabilized yet and **must not be used as your primary backup** tool. You've been warned!
@@ -24,13 +24,13 @@ Use the following links for more information:
 
 # Source code
 
-This repository does not contain the code of Rekkord but only exists as a front. For pratical reasons, I've started using a single repository for all my projects in 2018 because it is easier to manage.
+This repository does not contain the code of Rekkord but only exists as a front. For practical reasons, I've started using a single repository for all my projects in 2018 because it is easier to manage.
 
-The source code is available here: https://codeberg.org/Koromix/rygel/ (in the *src/rekkord* subdirectory).
+The source code is available here: https://codeberg.org/Koromix/rygel (in the *src/rekkord* subdirectory).
 
 Monorepositories have two killer features for me:
 
 - Cross-project refactoring
 - Simplified dependency management
 
-You can find a more detailed rationale here: https://danluu.com/monorepo/
+You can find a more detailed rationale here: https://danluu.com/monorepo
